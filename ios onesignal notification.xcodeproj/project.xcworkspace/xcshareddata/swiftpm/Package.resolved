@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "OneSignal",
+        "repositoryURL": "https://github.com/OneSignal/OneSignal-iOS-SDK",
+        "state": {
+          "branch": null,
+          "revision": "e762b39aba93cfe357d24ceb5534d93bc148b363",
+          "version": "2.15.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
